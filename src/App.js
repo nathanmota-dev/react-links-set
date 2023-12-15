@@ -1,6 +1,19 @@
-function App() {
+import DarkMode from "./components/DarkMode/DarkMode";
+import Header from "./components/Header/Header";
+import SocialMedia from "./components/SocialMedia/SocialMedia";
+import "./App.css";
+
+const App = () => {
   return (
-    <h1>React App</h1>
+
+    <div className="App">
+      <header className="App-header">
+        <Header />
+        <DarkMode />
+        <SocialMedia />
+      </header>
+    </div>
+
   );
 }
 
