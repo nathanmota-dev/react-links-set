@@ -6,7 +6,7 @@ O React Links Set é uma solução simples e elegante para criar uma página de 
 
 Exibição Celular
 
-![React Links Set Logo](/src/assets/Capture2.jpeg)
+<img src="/src/assets/Capture2.jpeg" alt="React Links Set Logo" width="200"/>
 
 Exibição Desktop
 
