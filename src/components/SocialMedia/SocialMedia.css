@@ -20,5 +20,13 @@ a:hover{
 
 .contentLinks{
     width: 800px;
-    margin: 10px;
+    margin: 2px;
 }
+
+@media screen and (max-width: 800px){
+    .contentLinks{
+        width: 90%;
+    }
+}
+
+

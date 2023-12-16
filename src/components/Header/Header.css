@@ -7,8 +7,8 @@
 .contentImg{
     display: block;
     margin: auto;
-    width: 96px;
-    height: 96px;
+    width: 192px;
+    height: 192px;
     background-image: url('../../assets/profile.png');
     background-size: cover;
     border-radius: 50%;
